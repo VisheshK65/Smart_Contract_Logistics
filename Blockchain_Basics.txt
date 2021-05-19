@@ -1,0 +1,20 @@
+                 
+                                                                                                 BLOCKCHAIN BASICS
+
+1. BLOCKS :  It is a collection of data containing multiple transactions over a given period of time on blockchain network.
+
+2. CHAIN : Using cryptographic links, we connect one block to another using hash function.
+
+3. BLOCKCHAIN : It is a decentralized, peer-to-peer network, secure and immutable ledger of synchronized data. 
+
+4. HASH : It is an output of an algorithmic function which converts data to a random string of numbers and letters.
+
+5. DECENTRALIZED : A system where no individual owns it, which leads to absence of central ownership. This system is spread over the network of users.
+
+6. SMART CONTRACTS : A contract is basically an agreement on which two or more entity agree to continue with. With the same idea, a smart contract is an agreement between two people or digital device where contracts agreed on cannot be manipulated.
+
+7. SOLIDITY : It is a high level, object oriented programming language used for preparing smart contract. Compiled using Solc complier.
+
+         
+
+                                                                                            !!!!!       THANK YOU      !!!!!     
